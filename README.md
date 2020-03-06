@@ -4,4 +4,4 @@ HTML5,
 CSS and
 Javascript (js)
 
-In this project you will to get to build a responsive web application for a restaurant with several branches
+In this project you will to get to build a responsive web application for a restaurant with several branches in same or other cities depending on your preferences.
